@@ -1,6 +1,8 @@
 # switch-auto-mod
 Automatically download necessary files and configure the SD card.
 
+*NOTE: Script follows this guide in terms of file locations and setup: https://nh-server.github.io/switch-guide/*
+
 
 ## Stay tuned for a proper guide/README file soon. 
 This project is extremely fresh and new. Functional, but not the way I want it yet! Will be updating this soon.
