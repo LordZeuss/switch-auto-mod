@@ -7,6 +7,6 @@ This project is extremely fresh and new. Functional, but not the way I want it y
 
 ---
 
-This script will give the option of formatting an SD card, and will download move any and all files in their correct places for you. It also adds quality of life things such as sigpatches and such for potential errors.
+**This script will give the option of formatting an SD card, and will download move any and all files in their correct places for you. It also adds quality of life things such as sigpatches and such for potential errors.**
 
 Stay tuned!
